@@ -1,12 +1,4 @@
-
-* User setup per project
-* SSH key sharing from Jenkins
-* Permissions management
-* Root access
-* Directory handling
-
 ---
-
 # 🚀 Jenkins Deployment to Plesk — Multi-User Setup
 
 ## 🧠 Overview
